@@ -1,17 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c36f819e-508f-4934-b7f8-81b733d6cad8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Go/leetcode/editor/cn/all.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Go/leetcode/editor/cn/translation.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/[11]盛最多水的容器.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/[26]删除排序数组中的重复项.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/[76]最小覆盖子串.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/[]两数之和.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/[]只出现一次的数字.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/all.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/translation.json" afterDir="false" />
-    </list>
+    <list default="true" id="c36f819e-508f-4934-b7f8-81b733d6cad8" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,7 +74,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1573215041879</updated>
-      <workItem from="1573215043274" duration="2952000" />
+      <workItem from="1573215043274" duration="3906000" />
     </task>
     <servers />
   </component>
