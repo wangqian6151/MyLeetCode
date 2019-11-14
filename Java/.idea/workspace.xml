@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c36f819e-508f-4934-b7f8-81b733d6cad8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/[242]有效的字母异位词.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/[1]两数之和.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/all.json" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/editor/cn/all.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/translation.json" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/editor/cn/translation.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python/leetcode/editor/cn/all.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Python/leetcode/editor/cn/all.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python/leetcode/editor/cn/translation.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Python/leetcode/editor/cn/translation.json" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -78,6 +82,7 @@
       <updated>1573215041879</updated>
       <workItem from="1573215043274" duration="6484000" />
       <workItem from="1573400988848" duration="8215000" />
+      <workItem from="1573723542150" duration="1880000" />
     </task>
     <servers />
   </component>
