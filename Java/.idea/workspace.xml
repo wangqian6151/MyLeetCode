@@ -2,17 +2,30 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c36f819e-508f-4934-b7f8-81b733d6cad8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/[4]寻找两个有序数组的中位数.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/[9]回文数.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Go/leetcode/editor/cn/all.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Go/leetcode/editor/cn/all.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/all.json" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/editor/cn/all.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/translation.json" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/editor/cn/translation.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Python/leetcode/editor/cn/all.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Python/leetcode/editor/cn/all.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Python/leetcode/editor/cn/translation.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Python/leetcode/editor/cn/translation.json" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
@@ -40,6 +53,11 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -58,15 +76,15 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
+  <component name="ServiceViewManager">
+    <option name="viewStates">
       <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
       </list>
     </option>
   </component>
@@ -87,6 +105,11 @@
       <workItem from="1573998095206" duration="6099000" />
       <workItem from="1574494144936" duration="3376000" />
       <workItem from="1574500364783" duration="7257000" />
+      <workItem from="1574613609423" duration="790000" />
+      <workItem from="1574816995642" duration="593000" />
+      <workItem from="1574911240922" duration="590000" />
+      <workItem from="1574961812992" duration="974000" />
+      <workItem from="1575022640958" duration="2197000" />
     </task>
     <servers />
   </component>
